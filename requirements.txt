@@ -1,0 +1,7 @@
+streamlit>=1.50
+tensorflow
+numpy
+pandas
+matplotlib
+pillow
+opencv-python<5
